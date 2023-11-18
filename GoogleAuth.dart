@@ -5,6 +5,9 @@ import 'package:mango/Homepage.dart';
 
 String name, email, photoUrl;
 
+
+
+
 class GoogleAuthentication extends StatefulWidget {
   @override
   _GoogleAuthenticationState createState() => _GoogleAuthenticationState();
